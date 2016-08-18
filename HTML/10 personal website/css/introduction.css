@@ -1,0 +1,38 @@
+body{
+	background-image: D:\Assignments\HTML\10 personal website\1.jpg;
+}
+.intro{
+	background-color: #B0C4DE;
+	width: 83%;
+	float: right;
+	margin-top: -20%;
+}
+.image{
+	margin-top: 10%;
+	float: left;
+}
+h1{
+	color: 	#FAF0E6;
+	text-shadow: 0 0 3px #FF0000;
+}
+#menu {
+    width: 550px;
+    height: 35px;
+    font-size: 16px;
+    font-family: Verdana;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+#menu li { 
+display: inline; 
+
+}
+#menu a {
+    text-decoration: none;
+    color: #00F;
+    padding: 5px 5px 5px 5px;
+}
+

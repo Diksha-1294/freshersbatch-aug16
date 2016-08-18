@@ -1,0 +1,17 @@
+
+.image{
+	float: right;
+	width: 70%;
+	margin-top: -15%;
+}
+ul li{
+	
+	font-size: 150%;
+}
+body{
+	background-color: #5F9EA0;
+}
+h1{
+	color: 	#FAF0E6;
+	text-shadow: 0 0 3px #FF0000;
+}

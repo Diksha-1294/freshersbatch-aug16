@@ -1,0 +1,7 @@
+p{
+	outline-style: dotted;
+	outline-color: green;
+	border:2px solid red;
+	font-size: 150%;
+	width: 55%;
+}

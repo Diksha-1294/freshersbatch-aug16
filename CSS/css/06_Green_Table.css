@@ -1,0 +1,11 @@
+
+table{
+	border :3px;
+	border-collapse: collapse;
+}
+ table, th, td{
+ 	border : 1px solid green;
+ }
+ table tr th{
+ 	background-color: green;
+ }
